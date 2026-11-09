@@ -1,0 +1,2 @@
+record_id,date,channel,organization_or_publication,topic,contact_permission,content_asset,source_link,relationship_type,follow_up_status,referral_visits,qualified_leads,owner
+EXAMPLE,2026-11-09,hospitality publication,PLACEHOLDER,hotel operations guide,pending,approved guide URL only,NOT_SENT,editorial opportunity,planned,,,TBD
