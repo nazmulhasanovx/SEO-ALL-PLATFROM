@@ -1,0 +1,13 @@
+week,topic,intent,languages,blocking_evidence
+"Week 1","Hotel management system overview","Commercial","EN + BN","Current approved capabilities"
+"Week 2","Hotel reservation workflow","Commercial","EN + BN","Reservations fact review"
+"Week 3","How hotel room calendars work","Informational","EN + BN","Verified booking calendar demo"
+"Week 4","Check-in and checkout checklist","Informational","EN + BN","Front desk workflow"
+"Week 5","Hotel room status and housekeeping","Informational","EN + BN","Housekeeping release"
+"Week 6","How to manage cottages and villas","Solution","EN + BN","Unit configuration verification"
+"Week 7","Hotel restaurant POS buyer guide","Commercial","EN + BN","Restaurant scope and plan"
+"Week 8","Hotel staff roles and permissions","Informational","EN + BN","Current roles verified"
+"Week 9","How to choose hotel management software in Bangladesh","Buyer guide","EN + BN","Neutral comparison evidence"
+"Week 10","Hotel booking engine vs marketplace","Informational","EN + BN","Booking source flow"
+"Week 11","Hotel occupancy and revenue metrics explained","Informational","EN + BN","Data fields and calculations verified"
+"Week 12","Small resort software setup checklist","Solution","EN + BN","Property setup and support process"
