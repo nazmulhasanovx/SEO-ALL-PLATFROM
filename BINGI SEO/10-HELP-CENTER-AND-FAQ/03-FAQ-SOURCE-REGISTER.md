@@ -13,4 +13,4 @@
 | How is customer data protected and exported? | Current security policy + product capabilities | Compliance |
 | Are training and onsite setup charged separately? | Signed-off current onboarding policy | Sales |
 
-**FAQ writing rule:** For an unverified item, do not invent a Yes/No. Record the product question and verification requirement; publish an answer only when approved. Plain visible FAQs are valuable on their own; Google FAQ rich snippets are generally limited to certain authoritative government and health sites.
+**FAQ writing rule:** For an unverified item, do not invent a Yes/No. Record the product question and verification requirement; publish an answer only when approved. Plain visible FAQs remain useful for visitors and for answering real questions. **Google removed FAQ rich results from Search in May 2026**, so do not promise FAQ rich snippets or prioritize FAQPage markup as an SEO feature. Reference: https://developers.google.com/search/updates
