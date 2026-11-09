@@ -7,7 +7,7 @@
 | Main HMS product | SoftwareApplication | Actual software product description | Eligibility and required/recommended fields vary; no false aggregateRating |
 | Product/module breadcrumb | BreadcrumbList | Matching real visible hierarchy | Actual reachable URLs only |
 | Editorial guide/article | Article / BlogPosting | True authored editorial page | Accurate author/publisher/datePublished/dateModified |
-| FAQ content | Plain visible FAQs (optional FAQPage schema only where appropriate) | Real on-page questions | Google FAQ rich results primarily restricted to qualified authoritative government/health sites |
+| FAQ content | Clear, visible FAQ sections written for users | Real on-page questions | **As of May 2026 Google no longer shows FAQ rich results in Search; do not implement FAQPage solely to gain Google rich results** |
 | Hotel property marketplace detail | LodgingBusiness or suitable hospitality type | Only real verified property listing | Exact name, address, contact, price and booking policy verified |
 | Review | Review / AggregateRating | Only when truly eligible and based on genuine review evidence | No self-serving/fake review claims; follow engine policies |
 
@@ -25,4 +25,4 @@ There is no special "GEO" schema that forces AI results. Many schema.org types a
 https://developers.google.com/search/docs/appearance/structured-data
 https://developers.google.com/search/docs/appearance/structured-data/software-app
 https://developers.google.com/search/docs/appearance/structured-data/sd-policies
-https://developers.google.com/search/blog/2023/08/howto-faq-changes
+https://developers.google.com/search/updates
