@@ -3,6 +3,7 @@
 **Purpose:** Never silently remove or overwrite prior BinGi SEO plans. Maintain a traceable history of what was planned, approved, deployed, changed and superseded.
 
 Files:
+- [AUDITS/2026-11-09-REVERIFICATION.md](AUDITS/2026-11-09-REVERIFICATION.md) — complete re-verification outcome and remaining blockers.
 - [CHANGELOG.md](CHANGELOG.md) — creation history and decision log.
 - [VERSIONING-AND-MIGRATION-POLICY.md](VERSIONING-AND-MIGRATION-POLICY.md) — version rules and review criteria.
 - [ARCHIVE/README.md](ARCHIVE/README.md) — archive convention; no legacy files have been moved.
